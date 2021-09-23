@@ -9,9 +9,8 @@ author_profile: true
 
 ### MicroImage Library
 
-| * Created an on-device image processing library for microcontrollers in C++.
-* The library can apply sobel, prewitt, and average filter on grayscale images. [Link](https://github.com/agrawalparth10/micro-image-processing) | <img style="float: right;" src="/images/500x300.png"> | 
-
+* Created an on-device image processing library for microcontrollers in C++.
+* The library can apply sobel, prewitt, and average filter on grayscale images. [Link](https://github.com/agrawalparth10/micro-image-processing)
 
 
 ### Mosaic Generator
@@ -27,7 +26,7 @@ author_profile: true
 ### Covid Forecasting
 
 * Explored XGBoost, LSTM, BiLSTM, and ARIMA for COVID prediction time series problem using PyTorch and scikit-learn. 
-* The best model had Mean Absolute Percentage Error of 2.269. <img style="float: right;" src="/images/bio-photo-2.jpg">
+* The best model had Mean Absolute Percentage Error of 2.269.
   
 ### BioFaceNet-PyTorch
 
