@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Parth Agrawal"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "4th year Computer Science and Engineering at UCLA"
+  location         : "Los Angeles, CA"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  pubmed           : 
+  googlescholar    :
   email            :  "parthagrawal24@ucla.edu"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/agrawalparth10"
+  github           : "agrawalparth10"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/agrawal-parth"
+  linkedin         : "agrawal-parth"
   orcid            : 
   pinterest        :
   soundcloud       :
