@@ -13,12 +13,12 @@ redirect_from:
   *	Advised by Dr. Alex Wong and Dr. Stefano Soatto
   *	I am interested in 3D vision and adversarial perturbations. 
   *	Universal Adversarial Perturbation
-    *	Building a framework to generate a single set of perturbations from a dataset for stereo matching networks generalizable across networks and datasets.
-    *	Investigating architectural defenses to make networks robust to adversarial perturbations.
+      *	Building a framework to generate a single set of perturbations from a dataset for stereo matching networks generalizable across networks and datasets.
+      *	Investigating architectural defenses to make networks robust to adversarial perturbations.
   *	Outlier Rejection
-    *	Exploring networks for removing outliers from sparse depth maps generated using lidar. 
+      *	Exploring networks for removing outliers from sparse depth maps generated using lidar. 
   *	Contributor, Xivo
-    *	Adding bundle adjustment and triangulation to Xivo, visual inertial odometry system in C++.
+      *	Adding bundle adjustment and triangulation to Xivo, visual inertial odometry system in C++.
 
 * Undergraduate Research Assistant, Laboratory for Embedded Machines and Ubiquitous Robots (LEMUR), (July 2020 – April 2021)
   *	Advised by Dr. Ankur Mehta.
@@ -61,7 +61,6 @@ redirect_from:
 * Bruin Leaders Project, 2018
   * Attended various seminars on team management, self-management, conflict resolution, public speaking, and nonhierarchical model of leadership.  
   * Mentored by the staff of Student Organizations, Leadership, and Engagement (SOLE), UCLA.
-
 
 
 ## Awards and Honors
