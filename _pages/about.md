@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-  Advised by [Dr. Alex Wong]("http://web.cs.ucla.edu/~alexw/") and [Dr. Stefano Soatto]("http://web.cs.ucla.edu/~soatto/"). Interested in 3D vision and adversarial perturbations. 
+  Advised by [Dr. Alex Wong](http://web.cs.ucla.edu/~alexw/) and [Dr. Stefano Soatto](http://web.cs.ucla.edu/~soatto/). Interested in 3D vision and adversarial perturbations. 
 
 
 ## Work Experience 
@@ -27,7 +27,7 @@ redirect_from:
   *	Tested 433 MHz LoRa, 2.4 GHz ESP32 WIFI, BLE, and 2.4 GHz NRF24l01 modules on latency and signal strength for communication with the blimp.
   *	Developed communication pipeline for manual control of lighter than air vehicles using ESP8266 microcontrollers and ESP Now protocol in python and C++. 
   *	Deployed on-device random forest and fully connected neural network models for image classification on ESP32 microcontrollers using TensorFlow lite.
-  *	Implemented on-device monocular depth estimation on ESP EYE microcontroller. [Website]("https://uclalemur.com/people/parth-agrawal") [Blogpost]("https://uclalemur.com/blog/tag:foray")
+  *	Implemented on-device monocular depth estimation on ESP EYE microcontroller. [Website](https://uclalemur.com/people/parth-agrawal) [Blogpost](https://uclalemur.com/blog/tag:foray)
 
 ### Computer Vision Intern, Tata Singapore Airlines (July’20 – September’20)
   *	Explored State-of-the-Art Face Recognition architectures for face recognition as part of DigiYatra, a Government of India program. 
@@ -51,7 +51,7 @@ redirect_from:
   * Performed competitive market analysis, suggested UI/UX improvements, and recommended APIs for a healthcare administration and automation startup. 
   * Researched digital marketing and developed market entry strategies for a mid-sized event planning startup. Identified target audience and made targeted market expansion plans for each type of event. 
   * Developed product roadmap and performed SWOT analyses for an energy efficiency startup. (Project Leader)
-  * Analyzed companies to form potential partnerships for a health tech startup. Determined different use cases for the company’s API suite. Developed python scripts to clean datasets. [Website]("https://www.uclabv.com/")
+  * Analyzed companies to form potential partnerships for a health tech startup. Determined different use cases for the company’s API suite. Developed python scripts to clean datasets. [Website](https://www.uclabv.com/)
 
 ### Aircopter Project, IEEE (Sept'18 - June'19)
   * In a team of 3, built a quadcopter from scratch using radio module, IMU, motor drivers, and a custom designed PCB
