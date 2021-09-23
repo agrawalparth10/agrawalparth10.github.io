@@ -9,24 +9,25 @@ author_profile: true
 
 ### MicroImage Library
 
-* Created an on-device image processing library for microcontrollers in C++. 
+* Created an on-device image processing library for microcontrollers in C++. <img style="float: right;" src="/images/bio-photo-2.jpg"> 
 * The library can apply sobel, prewitt, and average filter on grayscale images. [Link](https://github.com/agrawalparth10/micro-image-processing)
-<img style="float: right;" src="/images/bio-photo-2.jpg">
+
 
 
 ### Mosaic Generator
 
 * Created a framework to generate mosaic images using K-means clustering using numpy in python. [Link](https://github.com/agrawalparth10/mosaic_images)
+<img style="float: right;" src="/images/bio-photo-2.jpg">
   
 ### ECG
 
-* Applied the technique of knowledge distillation to train a student shallow CNN from a teacher CNN – BiLSTM network for electroencephalography 4 class motor classification using PyTorch.
+* Applied the technique of knowledge distillation to train a student shallow CNN from a teacher CNN – BiLSTM network for electroencephalography 4 class motor classification using PyTorch. <img style="float: right;" src="/images/bio-photo-2.jpg">
 * Teacher network achieved test accuracy of 51% and student network achieved test accuracy of 33%. [Link](https://colab.research.google.com/drive/1G1uq__BA4Vumhl7F0nL0UXjjxYrdn7o_?usp=sharing)
 
 ### Covid Forecasting
 
 * Explored XGBoost, LSTM, BiLSTM, and ARIMA for COVID prediction time series problem using PyTorch and scikit-learn. 
-* The best model had Mean Absolute Percentage Error of 2.269. 
+* The best model had Mean Absolute Percentage Error of 2.269. <img style="float: right;" src="/images/bio-photo-2.jpg">
   
 ### BioFaceNet-PyTorch
 
