@@ -7,24 +7,22 @@ author_profile: true
 
 {% include base_path %}
 
-Projects
-======
 
-MicroImage Library
+# MicroImage Library
 ======
 * Created an on-device image processing library for microcontrollers in C++. 
 * The library can apply sobel, prewitt, and average filter on grayscale images.
 
-Mosaic Generator
+## Mosaic Generator
 ======
 * Created a framework to generate mosaic images using K-means clustering using numpy in python. 
   
-ECG
+### ECG
 ======
 * Applied the technique of knowledge distillation to train a student shallow CNN from a teacher CNN – BiLSTM network for electroencephalography 4 class motor classification using PyTorch.
 * Teacher network achieved test accuracy of 51% and student network achieved test accuracy of 33%
 
-Covid Forecasting
+#### Covid Forecasting
 ======
 * Explored XGBoost, LSTM, Bi-LSTM, and ARIMA for COVID prediction time series problem using PyTorch and scikit-learn. 
 * The best model had Mean Absolute Percentage Error of 2.269.
