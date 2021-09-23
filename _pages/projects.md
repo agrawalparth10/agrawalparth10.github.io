@@ -1,14 +1,11 @@
 ---
 layout: archive
-title: "Projects"
+title: "Personal Projects"
 permalink: /projects/
 author_profile: true
 ---
 
-<center>
-Personal Projects
-</center>
-
+{% include base_path %}
 
 ## MicroImage Library
 
@@ -37,7 +34,7 @@ Personal Projects
 ## Contactless Heart Rate Monitor 
 
 * Reimplemented research paper for contactless heart rate monitor 
-* Image processing, ICA, Fourier Transformation, and band-pass filtering were performed on the user’s face to measure pulse using the principle of photoplethysmography with an error rate of &pm 10 bpm under adequate lighting conditions using OpenCV and Scikit-learn
+* Image processing, ICA, Fourier Transformation, and band-pass filtering were performed on the user’s face to measure pulse using the principle of photoplethysmography with an error rate of ± 10 bpm under adequate lighting conditions using OpenCV and Scikit-learn
 
 ## Kaggle Prostate Cancer Detection 
 
