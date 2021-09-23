@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ### MicroImage Library
-
-* Created an on-device image processing library for microcontrollers in C++. <img style="float: right;" src="/images/bio-photo-2.jpg"> 
+<img style="float: right;" src="/images/bio-photo-2.jpg"> 
+* Created an on-device image processing library for microcontrollers in C++.
 * The library can apply sobel, prewitt, and average filter on grayscale images. [Link](https://github.com/agrawalparth10/micro-image-processing)
 
 
