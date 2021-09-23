@@ -11,7 +11,7 @@ author_profile: true
 
 * Created an on-device image processing library for microcontrollers in C++. 
 * The library can apply sobel, prewitt, and average filter on grayscale images. [Link](https://github.com/agrawalparth10/micro-image-processing)
-<img style="float: right;" src="images/bio-photo-2.jpg">
+<img style="float: right;" src="/images/bio-photo-2.jpg">
 
 
 ### Mosaic Generator
