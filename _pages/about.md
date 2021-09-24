@@ -14,13 +14,7 @@ redirect_from:
 
 ## Work Experience 
 ### Undergraduate Research Assistant, Vision Lab (May'21 – Present) 
-  *	Universal Adversarial Perturbation
-      *	Building a framework to generate a single set of perturbations from a dataset for stereo matching networks generalizable across networks and datasets.
-      *	Investigating architectural defenses to make networks robust to adversarial perturbations.
-  *	Outlier Rejection
-      *	Exploring networks for removing outliers from sparse depth maps generated using lidar. 
-  *	Contributor, Xivo
-      *	Adding bundle adjustment and triangulation to Xivo, visual inertial odometry system in C++.
+
 
 ### Undergraduate Research Assistant, Laboratory for Embedded Machines and Ubiquitous Robots (July'20 – April'21)
   *	Advised by Dr. Ankur Mehta.
