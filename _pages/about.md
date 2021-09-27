@@ -8,8 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-
-  Advised by [Dr. Alex Wong](http://web.cs.ucla.edu/~alexw/) and [Dr. Stefano Soatto](http://web.cs.ucla.edu/~soatto/). Interested in 3D vision and adversarial perturbations. 
+I am a 4th-year computer science and engineering major at UCLA. I am interested in applying deep learning and machine learning to solve problems. At Vision Lab, I am working in the domain of 3D vision and adversarial perturbations under the guidance of [Dr. Alex Wong](http://web.cs.ucla.edu/~alexw/) and [Dr. Stefano Soatto](http://web.cs.ucla.edu/~soatto/).
 
 
 ## Work Experience 
@@ -41,20 +40,20 @@ redirect_from:
 
 ## Student Organizations
 
-### Analyst, Bruin Ventures (Sept'19 – Present)
+### Analyst, Bruin Ventures (September'19 – Present)
   * Performed competitive market analysis, suggested UI/UX improvements, and recommended APIs for a healthcare administration and automation startup. 
   * Researched digital marketing and developed market entry strategies for a mid-sized event planning startup. Identified target audience and made targeted market expansion plans for each type of event. 
-  * Developed product roadmap and performed SWOT analyses for an energy efficiency startup. (Project Leader)
+  * Acted as a project leader to develop product roadmap and performed SWOT analyses for an energy efficiency startup.
   * Analyzed companies to form potential partnerships for a health tech startup. Determined different use cases for the company’s API suite. Developed python scripts to clean datasets. [Website](https://www.uclabv.com/)
 
-### Aircopter Project, IEEE (Sept'18 - June'19)
+### Aircopter Project, IEEE (September'18 - June'19)
   * In a team of 3, built a quadcopter from scratch using radio module, IMU, motor drivers, and a custom designed PCB
   * Programmed the quadcopter in C++.
 
-### MentorSeas (Sept'19 - June'20)
+### MentorSeas (September'19 - June'20)
   * Acted as a mentor and guided freshmen students to navigate through their first year as engineering students at Henry Samueli School of Engineering and Applied Sciences. 
 
-### Bruin Leaders Project (Sept'18 - June'19)
+### Bruin Leaders Project (September'18 - June'19)
   * Attended various seminars on team management, self-management, conflict resolution, public speaking, and nonhierarchical model of leadership.  
   * Mentored by the staff of Student Organizations, Leadership, and Engagement (SOLE), UCLA.
 
