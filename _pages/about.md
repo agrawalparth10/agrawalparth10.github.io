@@ -43,8 +43,8 @@ I am a 4th-year computer science and engineering major at UCLA. I am interested 
 
 ## Publications
 
-*	Zachary Berger\*, Parth Agrawal\*, Tian Yu Liu, Stefano Soatto, and Alex Wong. Stereoscopic Universal Perturbations across Different Architectures and Datasets. Under Review. (\* Equal Contribution)
-*	Zhaoliang Zheng, Jiahao Li, Parth Agrawal, Zhao Lei, Aaron John-Sabu, and Ankur Mehta. User Based Design and Evaluation Pipeline for Indoor Airships. 39th IEEE Conference on Robotics and Automation (ICRA) 2022. Under Review.
+*	Zachary Berger\*, **Parth Agrawal** \*, Tian Yu Liu, Stefano Soatto, and Alex Wong. Stereoscopic Universal Perturbations across Different Architectures and Datasets. Under Review. (\* Equal Contribution)
+*	Zhaoliang Zheng, Jiahao Li, **Parth Agrawal**, Zhao Lei, Aaron John-Sabu, and Ankur Mehta. User Based Design and Evaluation Pipeline for Indoor Airships. 39th IEEE Conference on Robotics and Automation (ICRA) 2022. Under Review.
 
 
 
