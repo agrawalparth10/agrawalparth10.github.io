@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year computer science and engineering major at UCLA. I am interested in applying deep learning and machine learning to solve problems. At Vision Lab, I am working in the domain of 3D vision and adversarial perturbations under the guidance of [Dr. Alex Wong](http://web.cs.ucla.edu/~alexw/) and [Dr. Stefano Soatto](http://web.cs.ucla.edu/~soatto/).
+I am a 4th-year computer science and engineering major at UCLA. I am interested in applying deep learning and machine learning to solve problems. At Vision Lab, I am working in the domain of 3D vision and adversarial robustness under the guidance of [Dr. Alex Wong](http://web.cs.ucla.edu/~alexw/) and [Dr. Stefano Soatto](http://web.cs.ucla.edu/~soatto/).
 
 
 ## Work Experience 
 ### Undergraduate Research Assistant, Vision Lab (May'21 – Present) 
+  * Advised by Dr. Alex Wong and Dr. Stefano Soatto
+  * Interested in 3D vision and adversarial robustness
+  * Proposed a framework to optimize a single set of adversarial perturbations from a dataset for stereo matching networks generalizable across networks and datasets which can increase D1 error of state-of-the-art stereo networks from 1% to approximately 87%.
+  * Investigating architectural defenses to improve robustness of networks to adversarial perturbations by 60.5%. 
+  * Exploring networks for removing outliers from sparse depth maps generated using lidar
 
 
 ### Undergraduate Research Assistant, Laboratory for Embedded Machines and Ubiquitous Robots (July'20 – April'21)
@@ -37,6 +42,11 @@ I am a 4th-year computer science and engineering major at UCLA. I am interested 
 
 
 ## Publications
+
+*	Zachary Berger*, Parth Agrawal*, Tian Yu Liu, Stefano Soatto, and Alex Wong. Stereoscopic Universal Perturbations across Different Architectures and Datasets. Under Review. (* Equal Contribution)
+*	Zhaoliang Zheng, Jiahao Li, Parth Agrawal, Zhao Lei, Aaron John-Sabu, and Ankur Mehta. User Based Design and Evaluation Pipeline for Indoor Airships. 39th IEEE Conference on Robotics and Automation (ICRA) 2022. Under Review.
+
+
 
 ## Student Organizations
 
