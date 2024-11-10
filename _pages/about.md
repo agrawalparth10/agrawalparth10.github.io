@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a 4th-year computer science and engineering major at UCLA. I am interested in applying deep learning and machine learning to solve problems. At Vision Lab, I am working in the domain of 3D vision and adversarial robustness under the guidance of [Dr. Alex Wong](http://web.cs.ucla.edu/~alexw/) and [Dr. Stefano Soatto](http://web.cs.ucla.edu/~soatto/).
+I'm a Software Engineer at [Google AR](https://arvr.google.com/), where I develop the perception and motion tracking systems that power immersive augmented reality experiences for millions of users.
+
+Previously at the [UCLA Vision Lab](), I explored the fascinating world of 3D vision and adversarial perturbations under the guidance of [Dr. Stefano Soatto](http://web.cs.ucla.edu/~soatto/) and [Dr. Alex Wong](https://vision.cs.yale.edu/members/alex-wong.html). Additionally, I was a member of [Dr. Ankur Mehta's](https://www.ee.ucla.edu/ankur-mehta/) [LEMUR lab](https://uclalemur.com/), where I contributed to the development of autonomous blimps.
+
+My research interests lie at the intersection of computer vision and machine learning, with a specific focus on 3D vision and sensor fusion. My work is motivated by a desire to understand human perception and develop intelligent systems that enhance human capabilities. My central focus is to create perception systems that can learn continuously and accurately interpret the 3D scene through geometry, enabling machines to perceive the world in a manner akin to human perception.
+
+When I'm not busy moving matrices and manipulating images, you can find me behind a drum set, exploring new hiking trails, or playing table tennis. I'm always up for trying new activities and expanding my horizons.
 
 
 ## Work Experience 
