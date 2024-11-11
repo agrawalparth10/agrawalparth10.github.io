@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Parth Agrawal"
   avatar           : "parth.jpeg"
-  bio              : "4th year Computer Science and Engineering at UCLA"
-  location         : "Los Angeles, CA"
-  employer         :
+  bio              : "Software Engineer"
+  location         : "Mountain View, CA"
+  employer         : "Google"
   pubmed           : 
-  googlescholar    :
+  googlescholar    :  "https://scholar.google.com/citations?user=mhzi3UQAAAAJ&hl=en"
   email            :  "parthagrawal24@ucla.edu"
   researchgate     : 
   uri              :
