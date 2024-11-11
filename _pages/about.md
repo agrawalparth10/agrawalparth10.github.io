@@ -32,6 +32,10 @@ Vision and Pattern Recognition, pp. 15180-15190. 2022. (* Equal Contribution)
 
 *	Zhaoliang Zheng, Jiahao Li, **Parth Agrawal**, Zhao Lei, Aaron John-Sabu, and Ankur Mehta. User Based Design and Evaluation Pipeline for Indoor Airships. 39th IEEE Conference on Robotics and Automation (ICRA) 2022. Under Review.
 
+## Services
+
+* AAAI, ICPR
+
 ## Awards and Honors
 
 ### Member, UPE
