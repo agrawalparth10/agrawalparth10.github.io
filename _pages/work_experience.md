@@ -1,3 +1,11 @@
+---
+layout: archive
+title: "Work Experience"
+permalink: /work_experience/
+author_profile: true
+---
+
+
 ## Work Experience 
 ### Undergraduate Research Assistant, Vision Lab (May'21 – June'22) 
   * Advised by Dr. Alex Wong and Dr. Stefano Soatto
