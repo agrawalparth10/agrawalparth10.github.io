@@ -18,7 +18,7 @@ When I'm not busy moving matrices and manipulating images, you can find me behin
 
 ## Publications
 
-* Tong Ke, Parth Agrawal, Yun Zhang, Weikun Zhen, Chao X Guo, Toby Sharp, Ryan C Dutoit. “PC-SRIF:
+* Tong Ke, **Parth Agrawal**, Yun Zhang, Weikun Zhen, Chao X Guo, Toby Sharp, Ryan C Dutoit. “PC-SRIF:
 Preconditioned Cholesky-based Square Root Information Filter for Vision-aided Inertial Navigation”. Submitted to
 International Conference on Robotics & Automation 2025.
 
